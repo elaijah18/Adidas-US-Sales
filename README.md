@@ -1,7 +1,7 @@
 # Adidas-US-Sales
 
 ### Data Set
-- Listing of all TV Shows and Movies available in Netflix from 2008 - 2021 from [Adidas US Sales](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales).
+- This Adidas Sales dataset is a collection of mock data that includes information on the sales of Adidas products in the United States for 2020-21. It includes details such as the retailer, number of units sold, total sales revenue, location of sales, type of product sold, and other relevant information. Currency denomination is USD. [Adidas US Sales](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales).
 
 ### Tools 
 - MySQL Workbench for data analysis - View [SQL Script](https://github.com/elaijah18/Adidas-US-Sales/blob/main/Adidas_Sales.sql)
