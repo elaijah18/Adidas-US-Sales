@@ -19,4 +19,4 @@ I conducted a simple data cleaning and data wrangling:
 - Convert the columns: "Price per Unit", "Units Sold", "Operating Profit", and "Operating Margin", into float types from object.
 - Convert the "Invoice Date" column into date type.
 
-Google Colab Notebook: (https://colab.research.google.com/drive/1UkYW-79PpDRnWqVXkLFSEVQlil8y5AJU?usp=sharing)
+Google Colab Script: [Notebook](https://colab.research.google.com/drive/1UkYW-79PpDRnWqVXkLFSEVQlil8y5AJU?usp=sharing)
