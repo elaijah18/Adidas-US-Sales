@@ -20,3 +20,6 @@ I conducted a simple data cleaning and data wrangling:
 - Convert the "Invoice Date" column into date type.
 
 Google Colab Script: [Notebook](https://colab.research.google.com/drive/1UkYW-79PpDRnWqVXkLFSEVQlil8y5AJU?usp=sharing)
+
+### Visualization
+![Dashboard Screenshot]([images/dashboard.png](https://github.com/elaijah18/Adidas-US-Sales/blob/main/Dashboard%201.png))
